@@ -1,2 +1,2 @@
-# Tessercube-Talks
-Where talks of Tessercube happen.
+# TesserPG-Talks
+Where talks of TesserPG happen.
